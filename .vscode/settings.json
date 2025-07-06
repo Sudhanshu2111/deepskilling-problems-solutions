@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Week3/Spring Data Jpa with Springboot and Hibernate/Spring data Jpa -Quick Exxample/code/orm-learn/orm-learn/src/main/java/com/cognizant/orm_learn",
+        "Week1/Design Patterns and Principles/SingletonPatternExample",
+        "Week1/Design Patterns and Principles/FactoryMethodPatternExample",
+        "Week3/Spring Data Jpa with Springboot and Hibernate/Spring data Jpa -Quick Exxample/code/orm-learn/src/main/java/com/cognizant/orm_learn"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
